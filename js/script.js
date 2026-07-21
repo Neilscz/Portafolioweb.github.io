@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
             title: "Campaña para redes sociales",
             category: "Social Media",
             text: "La marca necesitaba contenido visual para Instagram. Se diseñaron posts, historias y piezas digitales con una estética limpia, buscando mejorar la presencia visual y mantener una comunicación más ordenada.",
-            images: ["Assets/icons/proyecto2/foto1.png", 
+            images: ["Assets/icons/proyecto2/foto1.PNG", 
                 "Assets/icons/proyecto2/foto2.png", 
                 "Assets/icons/proyecto2/foto3.png",
                 "Assets/icons/proyecto2/foto4.png"
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
     category: "Redes sociales",
     text: "Descripción más completa del proyecto, qué buscaba la marca, qué trabajaste y qué se logró visualmente.",
     images: [
-        "Assets/icons/proyecto3/foto1.png",
+        "Assets/icons/proyecto3/foto1.PNG",
         "Assets/icons/proyecto3/foto2.png",
         "Assets/icons/proyecto3/foto3.png",
         "Assets/icons/proyecto3/foto4.png"
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
             category: "Publicidad",
             text: "Este proyecto buscaba promocionar un producto o servicio de manera directa y atractiva. Se trabajó la jerarquía visual, el uso de color y la composición para captar la atención rápidamente.",
              images: [
-        "Assets/icons/proyecto4/foto1.png",
+        "Assets/icons/proyecto4/foto1.PNG",
         "Assets/icons/proyecto4/foto2.png",
         "Assets/icons/proyecto4/foto3.png",
         "Assets/icons/proyecto4/foto4.jpg"
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
             category: "Packaging",
             text: "Se desarrolló una propuesta visual para empaque, cuidando que el diseño fuera atractivo, limpio y coherente con la personalidad de la marca. El enfoque fue lograr una presentación más profesional del producto.",
              images: [
-        "Assets/icons/proyecto5/foto1.png",
+        "Assets/icons/proyecto5/foto1.PNG",
         "Assets/icons/proyecto5/foto2.png",
         "Assets/icons/proyecto5/foto3.png",
         "Assets/icons/proyecto5/foto4.png"
@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
             category: "Diseño digital",
             text: "Este proyecto aplicó diseño gráfico a una experiencia digital. Se trabajó la estructura visual, los bloques de contenido y una estética moderna para presentar la marca de forma clara y funcional.",
               images: [
-        "Assets/icons/proyecto6/foto1.png",
+        "Assets/icons/proyecto6/foto1.PNG",
         "Assets/icons/proyecto6/foto2.png",
         "Assets/icons/proyecto6/foto3.png",
         "Assets/icons/proyecto6/foto4.png"
@@ -126,7 +126,7 @@ proyecto14: {
     category: "Redes sociales",
     text: "Proyecto de contenido visual para una cuenta gastronómica. Se trabajaron publicaciones, piezas promocionales y diseños enfocados en mostrar productos de forma atractiva y clara.",
     images: [
-        "Assets/icons/proyecto14/foto1.png",
+        "Assets/icons/proyecto14/foto1.PNG",
         "Assets/icons/proyecto14/foto2.png",
         "Assets/icons/proyecto14/foto3.jpg",
         "Assets/icons/proyecto14/foto4.png"
@@ -138,7 +138,7 @@ proyecto15: {
     category: "Redes sociales",
     text: "Diseño de contenido para una marca de servicios. El objetivo fue comunicar beneficios, generar confianza visual y mantener una línea gráfica profesional.",
      images: [
-        "Assets/icons/proyecto15/foto1.png",
+        "Assets/icons/proyecto15/foto1.PNG",
         "Assets/icons/proyecto15/foto2.png",
         "Assets/icons/proyecto15/foto3.png",
         "Assets/icons/proyecto15/foto4.png"
@@ -150,7 +150,7 @@ proyecto16: {
     category: "Redes sociales",
     text: "Creación de piezas gráficas para una cuenta comercial. Se diseñaron posts, flyers digitales y contenido promocional para mejorar la presencia en redes.",
     images: [
-        "Assets/icons/proyecto16/foto1.png",
+        "Assets/icons/proyecto16/foto1.PNG",
         "Assets/icons/proyecto16/foto2.png",
         "Assets/icons/proyecto16/foto3.png",
         "Assets/icons/proyecto16/fotos4.png"
@@ -162,7 +162,7 @@ proyecto17: {
     category: "Redes sociales",
     text: "Proyecto enfocado en ordenar la comunicación visual de una cuenta institucional. Se trabajaron diseños más limpios, profesionales y alineados a la marca.",
     images: [
-        "Assets/icons/proyecto17/foto1.png",
+        "Assets/icons/proyecto17/foto1.PNG",
         "Assets/icons/proyecto17/foto2.png",
         "Assets/icons/proyecto17/foto3.png",
         "Assets/icons/proyecto17/foto4.png"
@@ -195,7 +195,7 @@ proyecto22: {
     category: "Redes sociales",
     text: "Proyecto trabajado para una cuenta importante de redes sociales. Se desarrollaron piezas visuales enfocadas en mejorar la presencia digital, mantener una línea gráfica coherente y comunicar mejor los servicios o productos de la marca.",
      images: [
-        "Assets/icons/proyecto22/foto1.png",
+        "Assets/icons/proyecto22/foto1.PNG",
         "Assets/icons/proyecto22/foto2.png",
         "Assets/icons/proyecto22/foto3.jpg",
         "Assets/icons/proyecto22/foto4.png"
@@ -280,4 +280,3 @@ filterButtons.forEach(button => {
 });
 
 });
-    
